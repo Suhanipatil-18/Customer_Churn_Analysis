@@ -173,7 +173,7 @@ Power BI (Prediction Dashboard)
 ---
 
 ## 🔹 Dashboard Preview
-![Dashboard Screenshot]((https://github.com/Suhanipatil-18/Customer_Churn_Analysis/blob/main/Snapshot_of_Summary-Dashboard.png))
+![Dashboard Screenshot](https://github.com/Suhanipatil-18/Customer_Churn_Analysis/blob/main/Snapshot_of_Summary-Dashboard.png)
 
 ---
 
